@@ -18,4 +18,4 @@ We have worked on a project named Food House where we have implemented few featu
 - Project Setup - Niam Md. Affan 
 - Developer- Shahriar Hoq Shubho
 
-Here the project demo video [food house demo video][https://drive.google.com/file/d/1RL5-s5IJomShkBzIiOHKP1KAZwCoouHj/view?usp=sharing]
+You can visit the demo video of this site: [food house demo video](https://drive.google.com/file/d/1RL5-s5IJomShkBzIiOHKP1KAZwCoouHj/view?usp=sharing)
