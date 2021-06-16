@@ -15,5 +15,7 @@ We have worked on a project named Food House where we have implemented few featu
 **React Native, Expo, Expo- App Loader, React-Navigation, React Navigation Stack**
 ## Team -2 
 - Project Manager - Shahadat Hossen
-- Developer - Niam Md. Affan 
+- Project Setup - Niam Md. Affan 
 - Developer- Shahriar Hoq Shubho
+
+Here the project demo video [food house demo video][https://drive.google.com/file/d/1RL5-s5IJomShkBzIiOHKP1KAZwCoouHj/view?usp=sharing]
